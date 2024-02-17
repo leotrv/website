@@ -1,0 +1,100 @@
+<mxfile host="65bd71144e">
+    <diagram id="SLbLxvSlM930ZcrbCAZf" name="Page-1">
+        <mxGraphModel dx="1042" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="50" width="730" height="610" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Leo Traven - traven.de" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="255" y="60" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Posts" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#99FF99;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="100" width="95" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="About" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="100" width="95" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Standard Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="20" width="730" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="150" y="130" width="590" height="370" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Post 1 [pic]" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="150" width="230" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;br&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Post 2 [pic]&lt;/span&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="150" width="230" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;br&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Post 3 [pic]&lt;/span&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="310" width="230" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;br&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Post 4&amp;nbsp;[pic]&lt;/span&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="320" width="230" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Links Twitter/X etc" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="60" width="130" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Title" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="270" width="230" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Title" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="270" width="230" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Title" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="440" width="230" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Title" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="440" width="230" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Impressum" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="137.5" y="610" width="615" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="890" y="50" width="730" height="610" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Leo Traven - traven.de" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1065" y="60" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Posts" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="1140" y="100" width="95" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="About" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#99FF99;" parent="1" vertex="1">
+                    <mxGeometry x="1280" y="100" width="95" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="About Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="890" y="20" width="730" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="960" y="130" width="590" height="370" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Links Twitter/X etc" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="900" y="60" width="130" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="Impressum" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="947.5" y="610" width="615" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="About" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="970" y="140" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Text" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="970" y="170" width="340" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Pic" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="1360" y="170" width="150" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="Kontakt" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="970" y="430" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Deutsch/Englisch" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="700" y="60" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="Deutsch/Englisch" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="1510" y="60" width="100" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
