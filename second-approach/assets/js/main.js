@@ -86,3 +86,14 @@ const swiper = new Swiper(".swiper", {
         }
     }   
 });
+
+// get current year
+const currentDateElement = document.getElementById("current_date");
+const formattedYear = new Date().getFullYear();
+currentDateElement.textContent = `${formattedYear} leo@traven.de. All rights reserved.`;
+
+// Define links
+const socialmedia_links = {
+    instagram: "https://www.instagram.com/leotrv/",
+    x: "https://twitter.com/i/flow/login?redirect_after_login=%2FLeoTraven"
+  };
