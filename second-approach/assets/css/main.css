@@ -14,6 +14,7 @@
     --transparent-light-color: rgba(255,255,255,.05);
     --transparent-dark-color: rgba(0,0,0,.75);
     --font-family: 'Poppins', sans-serif;
+    --font-family-posts: 'Playfair Display', sans-serif;
     --font-size-xsm: 1.2rem;
     --font-size-sm: 1.6rem;
     --font-size-md: 2.4rem;
@@ -680,6 +681,8 @@ body.light-theme{
     display: flex;
     flex-direction: column;
     gap: var(--gap);
+    font-family: var(--font-family-posts)
+
 }
 
 .quote{
@@ -700,6 +703,13 @@ body.light-theme{
     gap: var(--gap);
 }
 
+.author-about-page{
+    margin-bottom: 5rem;
+    gap: var(--gap);
+    background-color: var(--secondary-background-color);
+    grid-template-columns: 25rem 1fr;
+}
+
 .author{
     background-color: var(--secondary-background-color);
 }
@@ -707,6 +717,14 @@ body.light-theme{
 .author-image-box{
     position: relative;
     height: var(--item-min-height-sm);
+}
+
+.author-image-box-about-page{
+    position: relative;
+    /* height: var(--item-min-height-md); */
+    width: 200px;
+    height: 250px;
+    bottom: 0;
 }
 
 .author-about{
@@ -888,6 +906,67 @@ body.light-theme{
 
     .blog-post-data img{
         height: 40rem;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .older-posts-grid-wrapper{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media screen and (min-width: 1500px) {
+
+    .featured-article-1{
+        grid-column: 1/-1;
+        grid-row: 1/2;
+    }
+
+    .featured-article-2{
+        grid-column: 1/-1;
+        grid-row: 2/3;
+    }
+    
+    .featured-article-3{
+        grid-column: 1/-1;
+        grid-row: 3/4;
+    }
+
+    .featured-article-4{
+        grid-column: 1/-1;
+        grid-row: 4/5;
+    }
+
+}
+
+/* About */
+@media screen and (min-width: 768px) {
+
+    .about-content{
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 5rem repeat(4, 1fr);
+    }
+
+    .headline-banner{
+        grid-column: 1/-1;
+        font-size: var(--font-size-sm);
+    }
+
+    .curriculum-vitae{
+        grid-column: 1/2;
+        grid-row: 2/-1;
+    }
+
+    .older-posts .article{
+        grid-template-columns: 25rem 1fr;
+        
+    }
+
+    .older-posts-article-image-wrapper{
+        height: auto;
+    }
+
+    .blog-post-data img{
+        height: var(--item-min-height-md);;
     }
 }
 
