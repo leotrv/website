@@ -759,8 +759,10 @@ body.light-theme{
 }
 
 .author-about p{
-    max-width: 50rem;
-    margin-bottom: 1rem;
+    max-width: 60rem;
+    line-height: 0.8;
+    /* margin-top: -5px; */
+    /* margin-bottom: 1rem; */
 }
 
 .author-about .social-media{

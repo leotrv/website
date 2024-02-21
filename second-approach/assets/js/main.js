@@ -95,5 +95,6 @@ currentDateElement.textContent = `${formattedYear} leo@traven.de. All rights res
 // Define links
 const socialmedia_links = {
     instagram: "https://www.instagram.com/leotrv/",
-    x: "https://twitter.com/i/flow/login?redirect_after_login=%2FLeoTraven"
+    x: "https://twitter.com/i/flow/login?redirect_after_login=%2FLeoTraven",
+    linkedin: "https://de.linkedin.com/in/leo-traven-98ba00248"
   };
