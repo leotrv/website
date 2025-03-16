@@ -88,6 +88,13 @@ body.light-theme{
     padding: 0 1.5rem;
 }
 
+.container p{
+    text-align: justify;
+    line-height: 1.2;
+}
+
+
+
 .place-items-center{
     display: inline-flex;
     align-items: center;
@@ -730,6 +737,8 @@ body.light-theme{
     object-fit: cover;
     transition: transform .25s;
     object-position: 50% 10%;
+    max-width: 20rem;
+    max-height: 20rem;
 }
 
 .author-image-box{
